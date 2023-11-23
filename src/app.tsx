@@ -18,11 +18,11 @@ const Info = () => (
       <CardTitle>Codesandbox Template</CardTitle>
     </CardHeader>
     <CardContent className="grid gap-6">
-      <Item name="TypeScript" />
-      <Item name="Vite" />
-      <Item name="React" />
-      <Item name="Tailwind" />
-      <Item name="shadcn/ui (all components)" />
+      <Item name="TypeScript (5.3.2)" />
+      <Item name="Vite (5.0.2)" />
+      <Item name="React (18.2)" />
+      <Item name="Tailwind (3.3.5)" />
+      <Item name="shadcn/ui (0.4.1, all components)" />
     </CardContent>
   </Card>
 );
