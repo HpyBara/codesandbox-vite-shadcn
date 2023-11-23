@@ -1,7 +1,15 @@
 {
-  "title": "React (Vite + TS) + Tailwind + shadcn/ui",
+  "title": "React (Vite + TS) + Tailwind + shadcn/ui + pnpm",
   "description": "",
   "iconUrl": "https://github.com/codesandbox/sandbox-templates/blob/main/react-vite-ts/.codesandbox/icon.png?raw=true",
-  "tags": ["react", "vite", "javascript", "tailwind", "shadcn", "typescript"],
+  "tags": [
+    "pnpm",
+    "react",
+    "vite",
+    "javascript",
+    "tailwind",
+    "shadcn",
+    "typescript"
+  ],
   "published": true
 }
