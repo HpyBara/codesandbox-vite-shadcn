@@ -18,7 +18,6 @@ const Info = () => (
       <CardTitle>Codesandbox Template</CardTitle>
     </CardHeader>
     <CardContent className="grid gap-6">
-      <Item name="pnpm" />
       <Item name="TypeScript" />
       <Item name="Vite" />
       <Item name="React" />
